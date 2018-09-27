@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Card View XML Dimension -->
+    <!-- Card View -->
+    <dimen name="card_view_margin_bottom">8dp</dimen>
+    <dimen name="card_view_corner_radius">8dp</dimen>
+    <dimen name="card_view_elevation">6dp</dimen>
+
+    <!-- Image View -->
+    <dimen name="image_view_height">200dp</dimen>
+
+    <!-- Location Text View -->
+    <dimen name="location_text_view_height">50dp</dimen>
+    <dimen name="location_text_view_margin_bottom">16dp</dimen>
+    <dimen name="location_text_view_padding_left">8dp</dimen>
+    <dimen name="location_text_view_padding_right">0dp</dimen>
+    <dimen name="location_text_view_text_size">32sp</dimen>
+
+    <!-- Description Text View -->
+    <dimen name="description_text_view_height">90dp</dimen>
+    <dimen name="description_text_view_padding">16dp</dimen>
+
+    <!-- Phone Address shared -->
+    <dimen name="phone_address_text_view_height">35dp</dimen>
+    <dimen name="phone_address_text_view_drawable_padding">4dp</dimen>
+    <dimen name="phone_address_text_view_padding">8dp</dimen>
+
+</resources>
