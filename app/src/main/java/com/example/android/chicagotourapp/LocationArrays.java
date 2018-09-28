@@ -2,6 +2,10 @@ package com.example.android.chicagotourapp;
 
 import java.util.ArrayList;
 
+// All descriptions are thanks to Google.com
+// After you search a location, you will find a quick
+// description. This description was used in this app.
+
 public class LocationArrays extends ArrayList {
     private ArrayList<CategoryClass> foodLocations = new ArrayList<>();
 
