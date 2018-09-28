@@ -23,7 +23,7 @@ public class SportsFragment extends Fragment {
         final ArrayList<CategoryClass> venues = allSportVenues.getSportsList();
 
         Adapter adapter = new Adapter(getActivity(), venues);
-        ListView listView = (ListView) rootView.findViewById(R.id.recycler_view);
+        ListView listView = (ListView) rootView.findViewById(R.id.list_view);
         listView.setAdapter(adapter);
 
         return rootView;

@@ -23,7 +23,7 @@ public class BreweriesFragment extends Fragment {
         final ArrayList<CategoryClass> breweries = allBreweries.getBreweryLocations();
 
         Adapter adapter = new Adapter(getActivity(), breweries);
-        ListView listView = (ListView) rootView.findViewById(R.id.recycler_view);
+        ListView listView = (ListView) rootView.findViewById(R.id.list_view);
         listView.setAdapter(adapter);
 
         return rootView;
