@@ -58,10 +58,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/phone_address_text_view_height"
                 android:layout_below="@id/card_view_description_text_view"
+                android:autoLink="phone"
                 android:drawableStart="@drawable/baseline_call_black_18"
                 android:drawableLeft="@drawable/baseline_call_black_18"
                 android:drawablePadding="@dimen/phone_address_text_view_drawable_padding"
-                android:gravity="center"
+                android:gravity="center_vertical"
                 android:padding="@dimen/phone_address_text_view_padding"
                 tools:text="(773)125-2132" />
 
@@ -72,6 +73,7 @@
                 android:layout_below="@id/card_view_description_text_view"
                 android:layout_toEndOf="@+id/card_view_phone_text_view"
                 android:layout_toRightOf="@id/card_view_phone_text_view"
+                android:autoLink="map"
                 android:drawableStart="@drawable/baseline_location_on_black_18"
                 android:drawableLeft="@drawable/baseline_location_on_black_18"
                 android:drawablePadding="@dimen/phone_address_text_view_drawable_padding"
