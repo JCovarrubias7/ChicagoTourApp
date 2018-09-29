@@ -12,4 +12,144 @@
 
     <!-- Location Image Description -->
     <string name="image_location_description">Image of location</string>
+
+    <!-- Location Arrays -->
+    <!-- Food List -->
+    <!-- Giordanos -->
+    <string name="giordanos_name">Giordanos</string>
+    <string name="giordanos_description">Known for deep-dish pizza, this casual chain serves
+        other classic Italian food, plus beer and wine.</string>
+    <string name="giordanos_phone">1(312) 842-1100</string>
+    <string name="giordanos_address">1340 S Michigan Ave, Chicago, IL 60605</string>
+    <!-- Jim's Original -->
+    <string name="jims_name">Jim\'s Original</string>
+    <string name="jims_description">Old-school 24/7 hotdog stand (started in 1939) boasting the
+        original Maxwell Street Polish sausage.</string>
+    <string name="jims_phone">1(312) 733-7820</string>
+    <string name="jims_address">1250 S Union Ave, Chicago, IL 60607</string>
+    <!-- Portillos -->
+    <string name="portillos_name">Portillo\'s Hot Dogs</string>
+    <string name="portillos_description">Chicago-born chain for hot dogs, Italian beef sandwiches
+        and more plus beer and wine, in retro digs.</string>
+    <string name="portillos_phone">1(708) 458-7000</string>
+    <string name="portillos_address">5532 S Harlem Ave, Summit, IL 60501</string>
+    <!-- Burger Point -->
+    <string name="burger_point_name">The Burger Point</string>
+    <string name="burger_point_description">All-natural burgers, wings and chili with gourmet
+        garnishes ordered via iPads and made while you wait.</string>
+    <string name="burger_point_phone">1(312) 842-1900</string>
+    <string name="burger_point_address">1900 S State St, Chicago, IL 60616</string>
+    <!-- Martinez Supermarket-->
+    <string name="martinez_supermarket_name">Martinez Supermarket</string>
+    <string name="martinez_supermarket_description">Simple corner grocery store with butcher and
+        selection of produce, emphasizing Mexican food items.</string>
+    <string name="martinez_supermarket_phone">1(773) 254-4048</string>
+    <string name="martinez_supermarket_address">3301 S Morgan St, Chicago, IL 60608</string>
+
+    
+    <!-- Museum List -->
+    <!-- Art Institute -->
+    <string name="art_institute_name">Art Institute of Chicago</string>
+    <string name="art_institute_description">The Art Institute of Chicago, founded in 1879 and
+        located in Chicago\'s Grant Park, is one of the oldest and largest art museums in the
+        United States.</string>
+    <string name="art_institute_phone">1(312) 443-3600</string>
+    <string name="art_institute_address">111 S Michigan Ave, Chicago, IL 60603</string>
+    <!-- Science and Industry -->
+    <string name="science_and_industry_name">Science and Industry</string>
+    <string name="science_and_industry_description">The Museum of Science and Industry is located
+        in Chicago, Illinois, in Jackson Park, in the Hyde Park neighborhood between Lake 
+        Michigan and The University of Chicago.</string>
+    <string name="science_and_industry_phone">1(773) 684-1414</string>
+    <string name="science_and_industry_address">5700 S Lake Shore Dr, Chicago, IL 60637</string>
+    <!-- Contemporary Art -->
+    <string name="contemporary_art_name">Contemporary Art Museum</string>
+    <string name="contemporary_art_description">The Museum of Contemporary Art Chicago is a 
+        contemporary art museum which was established in 1967 is one of the world\'s largest 
+        contemporary art venues.</string>
+    <string name="contemporary_art_phone">1(312) 280-2660</string>
+    <string name="contemporary_art_address">220 E Chicago Ave, Chicago, IL 60611</string>
+    <!-- Field Museum -->
+    <string name="the_field_museum_name">The Field Museum</string>
+    <string name="the_field_museum_description">The Field Museum of Natural History is one of the
+        largest such museums in the world.</string>
+    <string name="the_field_museum_phone">1(312) 922-9410</string>
+    <string name="the_field_museum_address">1400 S Lake Shore Dr, Chicago, IL 60605</string>
+    <!-- Mexican Fine Arts Museum-->
+    <string name="mexican_fine_arts_name">Mexican Fine Arts Museum</string>
+    <string name="mexican_fine_arts_description">Some 5,000 paintings, photographs, sculptures and 
+        more highlight this art museum, with free entry.</string>
+    <string name="mexican_fine_arts_phone">1(312) 738-1503</string>
+    <string name="mexican_fine_arts_address">1852 W 19th St, Chicago, IL 60608</string>
+
+    
+    <!-- Sports List -->
+    <!-- Chicago Bulls -->
+    <string name="bulls_name">Chicago Bulls</string>
+    <string name="bulls_description">The United Center is home to both the Chicago Bulls of the 
+        National Basketball Association and the Chicago Blackhawks of the National Hockey League
+        .</string>
+    <string name="bulls_phone">1(312) 455-4500</string>
+    <string name="bulls_address">1901 W Madison St, Chicago, IL 60612</string>
+    <!--Chicago Cubs -->
+    <string name="cubs_name">Chicago Cubs</string>
+    <string name="cubs_description">Wrigley Field is a baseball park located on the North Side of
+        Chicago, Illinois. It is the home of the Chicago Cubs, one of the city\'s two Major League
+        Baseball franchises.</string>
+    <string name="cubs_phone">1(773) 404-2827</string>
+    <string name="cubs_address">1060 W Addison St, Chicago, IL 60613</string>
+    <!-- Chicago Fire -->
+    <string name="fire_name">Chicago Fire</string>
+    <string name="fire_description">Toyota Park is a soccer-specific stadium about twelve 
+        miles southwest of downtown Chicago. It is the home of the Chicago Fire</string>
+    <string name="fire_phone">1(708) 594-7200</string>
+    <string name="fire_address">7000 S Harlem Ave, Bridgeview, IL 60455</string>
+    <!-- Chicago White Sox -->
+    <string name="white_sox_name"> Chicago White Sox</string>
+    <string name="white_sox_description">Guaranteed Rate Field is a baseball park located in 
+        Chicago, Illinois, that serves as the home ballpark for the Chicago White Sox of Major
+        League Baseball.</string>
+    <string name="white_sox_phone">1(312) 674-1000</string>
+    <string name="white_sox_address">333 W 35th St, Chicago, IL 60616</string>
+    <!-- Chicago Blackhawks -->
+    <string name="blackhawks_name">Chicago Blackhawks</string>
+    <string name="blackhawks_description">The United Center is home to both the Chicago Bulls of 
+        the National Basketball Association and the Chicago Blackhawks of the 
+        National Hockey League.</string>
+    <string name="blackhawks_phone">1(312) 455-4500</string>
+    <string name="blackhawks_address">1901 W Madison St, Chicago, IL 60612</string>
+
+
+    <!-- Brewery List -->
+    <!-- Lagunitas -->
+    <string name="lagunitas_name">Lagunitas</string>
+    <string name="lagunitas_description">Lively taproom offering beer tastings, snacks, a retail
+        store and regular live music.</string>
+    <string name="lagunitas_phone">1(773) 522-1308</string>
+    <string name="lagunitas_address">2607 W 17th St, Chicago, IL 60608</string>
+    <!--5 Rabbit -->
+    <string name="five_rabbit_name">5 Rabbit Brewery</string>
+    <string name="five_rabbit_description">Latin American microbrewery with a cozy tasting room 
+        featuring a rotating selection of house beers.</string>
+    <string name="five_rabbit_phone">1(312) 895-9591</string>
+    <string name="five_rabbit_address">6398 74th St, Bedford Park, IL 60638</string>
+    <!--Moody Tongue -->
+    <string name="moody_tongue_name">Moody Tongue Brewery</string>
+    <string name="moody_tongue_description">Exotic beers are offered along with oysters and cake at
+        this brewery tasting room with a fireplace.</string>
+    <string name="moody_tongue_phone">1(312) 600-5111</string>
+    <string name="moody_tongue_address">2136 S Peoria St, Chicago, IL 60608</string>
+    <!-- On Tour -->
+    <string name="on_tour_name">On Tour Brewery</string>
+    <string name="on_tour_description">Warehouselike microbrewery tasting room pouring house 
+        beers and offering canned beers to go.</string>
+    <string name="on_tour_phone">1(312) 796-3119</string>
+    <string name="on_tour_address">1725 W Hubbard St, Chicago, IL 60622</string>
+    <!-- Goose Island -->
+    <string name="goose_island_name">Goose Island Brewery</string>
+    <string name="goose_island_description">Goose Island Brewery is a brewery in Chicago, 
+        Illinois, that began as a single brewpub opened in 1988 in Lincoln Park, Chicago, and 
+        named after a nearby island.</string>
+    <string name="goose_island_phone">1(800) 466-7363</string>
+    <string name="goose_island_address">1800 W Fulton St, Chicago, IL 60612</string>
 </resources>
